@@ -1,6 +1,6 @@
 <?php
 /**
- * 	Wrapper class for New version of reCAPTCHA by Google Inc
+ * 	Wrapper class for new version of reCAPTCHA (v2.0) by Google Inc
  * 	@author 	Hadi Tajallaei <hadi@impixel.com>
  * 	@since 		2nd Feburary 2016
  * 	@version  	1.0
