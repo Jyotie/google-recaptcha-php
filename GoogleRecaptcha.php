@@ -10,7 +10,7 @@
 
 Class GoogleRecaptcha {
 	
-	const URL_PATH 				= "https://www.google.com/recaptcha/api/siteverify";
+	const URL_PATH 			= "https://www.google.com/recaptcha/api/siteverify";
 	private static $_secret_key = "YOUR SECRET KEY HERE";
 
 
