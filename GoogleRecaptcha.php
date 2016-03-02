@@ -37,7 +37,7 @@ Class GoogleRecaptcha {
 		$ch = curl_init();
 		
 		//set the url, number of POST vars
-		curl_setopt($ch,CURLOPT_URL, URL_PATH);
+		curl_setopt($ch,CURLOPT_URL, self::URL_PATH);
 		curl_setopt($ch, CURLOPT_RETURNTRANSFER, TRUE); 
 		curl_setopt($ch, CURLOPT_HEADER, FALSE);
 		curl_setopt($ch,CURLOPT_POST, count($fields));
